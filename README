@@ -1,0 +1,5 @@
+    randomDisplay displays randomly selected non-blank lines of specified files.
+
+    Usage:	 randomDisplay.hs --help
+             randomDisplay.hs [NUMBER OF LINES TO DISPLAY] [FILES]
+
